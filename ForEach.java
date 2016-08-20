@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public ForEach{
+public class ForEach{
     
     public static void main(String args[]){
         
